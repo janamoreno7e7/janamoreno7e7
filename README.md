@@ -2,15 +2,15 @@
     <img src="banner2.svg" alt="Banner Profesional Jana Moreno" />
 </p>
 
-<h3>Welcome to my profile</h3>
+<h3>Welcome to my Git Hub profile</h3>
 <p>I'm a <b>Web Application Development (DAW)</b> student at the Barcelona Technological Institute (ITB), specializing in **Mobile Environments Development** (Desenvolupament d'Aplicacions Web en Entorns Mòbils)</p>
 
-<h4>Technical Focus</h4>
-
+<h3>Technical Focus</h3>
+<br/>
 <p>My development workflow is powered by the following technologies, learned and applied during my DAW studies at the ITB, with a strong emphasis on mobile-first solutions:</p>
-
+<br/>
 <p><b>Frontend Core:</b> I build responsive user interfaces using <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>, ensuring excellent cross-browser compatibility and usability.</p>
-<p><b>Backend Logic:</b> I use <b>Kotlin</b> for modern, concise server-side development, often focused on designing APIs for mobile consumption, and **PHP** for implementing dynamic features and robust web applications.</p>
+<p><b>Backend Logic:</b> I use <b>Kotlin</b> for modern, concise server-side development, often focused on designing APIs for mobile consumption, and <b>PHP</b> for implementing dynamic features and robust web applications.</p>
 <p><b>Data Management:</b> I design, implement, and manage relational databases using <b>MySQL</b>, ensuring data integrity and efficient queries.</p>
 <p><b>Version Control: Git</b> and <b>GitHub</b> are essential for my workflow, managing source code collaboration and project history effectively.</p>
 
