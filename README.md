@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner1.png" alt="Banner Profesional Jana Moreno" />
+    <img src="banner2.svg" alt="Banner Profesional Jana Moreno" />
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
