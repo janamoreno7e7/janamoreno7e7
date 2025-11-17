@@ -3,7 +3,7 @@
 </p>
 <hr style="border: 0; height: 2px; background-color: #F7DAE6; margin-top: 5px; margin-bottom: 20px;">
 <h3>Welcome to my Git Hub profile</h3>
-<p>I'm a <b>Web Application Development (DAW)</b> student at the Barcelona Technological Institute (ITB), specializing in **Mobile Environments Development** (Desenvolupament d'Aplicacions Web en Entorns Mòbils)</p>
+<p>I'm a <b>Web Application Development (DAW)</b> student at the Barcelona Technological Institute (ITB), specializing in Mobile Environments Development (Desenvolupament d'Aplicacions Web en Entorns Mòbils)</p>
 <hr style="border: 0; height: 2px; background-color: #F7DAE6; margin-top: 5px; margin-bottom: 20px;">
 <h3>Technical Focus</h3>
 <p>My development workflow is powered by the following technologies, learned and applied during my DAW studies at the ITB, with a strong emphasis on mobile-first solutions:</p>
