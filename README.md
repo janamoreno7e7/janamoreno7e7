@@ -25,3 +25,4 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
 </p>
+<hr style="border: 0; height: 2px; background-color: #F7DAE6; margin-top: 5px; margin-bottom: 20px;">
