@@ -3,7 +3,7 @@
 </p>
 
 <h3>Welcome to my profile</h3>
-<p>I'm a **Web Application Development (DAW)** student at the Barcelona Technological Institute (ITB), specializing in **Mobile Environments Development** (Desenvolupament d'Aplicacions Web en Entorns Mòbils)</p>
+<p>I'm a <b>Web Application Development (DAW)</b> student at the Barcelona Technological Institute (ITB), specializing in **Mobile Environments Development** (Desenvolupament d'Aplicacions Web en Entorns Mòbils)</p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
