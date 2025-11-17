@@ -2,7 +2,8 @@
     <img src="banner2.svg" alt="Banner Profesional Jana Moreno" />
 </p>
 
-<h3 style="color: #333333; border-bottom: 2px solid #EAC7C2; padding-bottom: 5px;">Welcome to my Git Hub profile</h3>
+<h3 style="color: #333333; margin-bottom: 0;">Welcome to my Git Hub profile</h3>
+<hr style="border: 0; height: 2px; background-color: #EAC7C2; margin-top: 5px; margin-bottom: 20px;">
 <p>I'm a <b>Web Application Development (DAW)</b> student at the Barcelona Technological Institute (ITB), specializing in **Mobile Environments Development** (Desenvolupament d'Aplicacions Web en Entorns Mòbils)</p>
 <br/>
 <h3>Technical Focus</h3>
