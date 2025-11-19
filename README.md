@@ -27,13 +27,4 @@
 </p>
 <hr style="border: 0; height: 2px; background-color: #F7DAE6; margin-top: 5px; margin-bottom: 20px;">
 
----
 [![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=janamoreno7e7)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamoreno7e7&layout=compact" />
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=janamoreno7e7&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
----
