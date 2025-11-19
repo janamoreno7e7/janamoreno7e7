@@ -27,6 +27,6 @@
 </p>
 <hr style="border: 0; height: 2px; background-color: #F7DAE6; margin-top: 5px; margin-bottom: 20px;">
 
-[![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=janamoreno7e7)](https://github.com/anuraghazra/github-readme-stats) <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamoreno7e7&layout=compact" />
+[![Jana's GitHub stats](https://github-readme-stats.vercel.app/api?username=janamoreno7e7)](https://github.com/anuraghazra/github-readme-stats) <img align="auto" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janamoreno7e7&layout=compact" />
 
 <hr style="border: 0; height: 2px; background-color: #F7DAE6; margin-top: 5px; margin-bottom: 20px;">
