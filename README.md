@@ -8,7 +8,7 @@ I'm a **Marketing student** based in Barcelona with a solid technical background
 
 Today, I code as a hobby and leverage my tech skills to bridge the gap between marketing, data, and digital products.
 
-#### 🛠️ Tech Stack & Hobbies
+#### Tech Stack & Hobbies
 Even though my main focus is now marketing, I still enjoy building things for the web and exploring new technologies:
 
 * **Frontend & Web:** HTML5, CSS3, and JavaScript (great for understanding UX/UI, landing pages, and Technical SEO).
@@ -16,7 +16,7 @@ Even though my main focus is now marketing, I still enjoy building things for th
 * **Data & Databases:** MySQL (helpful for understanding data structures, querying, and analytics).
 * **Tools & Workflow:** Git and GitHub for version control and personal projects.
 
-#### 🚀 What I'm currently up to
+#### What I'm currently up to
 * Studying Marketing and exploring digital strategy, consumer behavior, and brand growth.
 * Building small web projects in my free time to keep my coding skills sharp.
 * Looking to connect with professionals in **Digital Marketing, Growth, and Tech**.
